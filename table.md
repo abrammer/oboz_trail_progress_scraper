@@ -1,10 +1,10 @@
 | Trail Name                     |   count |   limit |   % | reward                                                                                                                  |
 |:-------------------------------|--------:|--------:|----:|:------------------------------------------------------------------------------------------------------------------------|
 | Maxwell Natural Area to the A  |      74 |     150 |  49 | pair of Smartwool socks -AND- a drink of choice with purchase of food item from Happy Trails                            |
-| Coyote Ridge                   |      36 |     100 |  36 | beer up to $10 from Tap and Handle AND a pair of socks from Feetures                                                    |
+| Coyote Ridge                   |      39 |     100 |  39 | beer up to $10 from Tap and Handle AND a pair of socks from Feetures                                                    |
+| Mason, Redtail Grove, and Foss |      22 |     100 |  22 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
 | Dixon Reservoir wide loop via  |      34 |     150 |  22 | cinnamon roll from Silver Grill                                                                                         |
 | Red Mountain Natural Area      |      10 |      50 |  20 | $10 gift card to Hot Corners                                                                                            |
-| Mason, Redtail Grove, and Foss |      19 |     100 |  19 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
 | Running Deer Loop              |      26 |     150 |  17 | cinnamon roll from Vern's Place                                                                                         |
 | Spring Creek/Spring Canyon Par |      26 |     150 |  17 | pancake from Snooze A.M. Eatery -AND- a buy one beer, get one from Snack Attack!                                        |
 | Poudre Valley River Trail: Lee |      14 |     100 |  14 | bar from Bobo's Oat Bars                                                                                                |
@@ -15,8 +15,8 @@
 | Hike Anywhere - Minimum 2 Mile |     142 |       0 |     | be entered into a drawing for a $25 gift card from Cuppy's Coffee                                                       |
 | Soapstone Mahogany Trail       |      12 |       0 |     | buy one beer, get one from Gilded Goat Brewery                                                                          |
 | River Bluffs Open Space        |      23 |       0 |     | $5 off at Yampa Sandwich Co.                                                                                            |
-| Riverbend Ponds Trail          |      56 |       0 |     | baked good from Buttermilk Bakery                                                                                       |
-| Spring Creek Edora Park to Cre |      34 |       0 |     | buy one beer, get one from Intersect Brewery                                                                            |
+| Riverbend Ponds Trail          |      57 |       0 |     | baked good from Buttermilk Bakery                                                                                       |
+| Spring Creek Edora Park to Cre |      36 |       0 |     | buy one beer, get one from Intersect Brewery                                                                            |
 | Fossil Creek Trail through Cat |      13 |       0 |     | baked good from Cups Community Coffee AND a Bear Tree Collective designed compass patch and stickers!                   |
 | Reservoir Ridge via Foothills  |       2 |       0 |     | beer from the Mayor of Old Town                                                                                         |
 | Devils Backbone Nature Trail   |      11 |       0 |     | beer with the purchase of a pizza or sandwich from Berthoud Brewing                                                     |
