@@ -98,8 +98,8 @@ def get_trailcounts(athletes):
     trailcounts = TrailCounts()
     for athlete in athletes:
         trailcounts.add_athlete(athlete['athleteID'])
-        if len(trailcounts.athletes) > 20:
-            break
+        # if len(trailcounts.athletes) > 20:
+        #     break
     
     tcdf = trailcounts.to_dataframe()
     tcdf.columns = ['count']

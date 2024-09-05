@@ -27,7 +27,7 @@ jobs:
                 
                 # Check if there are changes to commit
                 if [ -n "$(git status --porcelain)" ]; then
-                  git commit -m "Update table"
+                  git commit -m "Auto Update table $(date)"
                 fi
                 
                 # Push the changes
