@@ -2,7 +2,7 @@ name: realtime_scape
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0/12 * * *"
 
 jobs:
     scrape:
