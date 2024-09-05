@@ -1,0 +1,36 @@
+name: realtime_scape
+on:
+  workflow_dispatch:
+  # schedule:
+    # - cron: "0 0 * * *"
+
+jobs:
+    scrape:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository code
+              uses: actions/checkout@v4
+            - name: install dependencies
+              run: pip install tabulate pandas requests lxml beautifulsoup4
+            - name: run scaper
+              env:
+                BEARER: ${{ secrets.BEARER }}
+              run: python main.py
+            - name: echo
+              run: echo table.md
+            # - name: commit table to repo
+            #   run: |
+            #     git config --local user.email "action@github.com"
+            #     git config --local user.name "GitHub Action"
+                
+            #     git add table.md  
+                
+            #     # Check if there are changes to commit
+            #     if [ -n "$(git status --porcelain)" ]; then
+            #       git commit -m "Update table"
+            #     fi
+                
+            #     # Push the changes
+            #     git push
+            #   env:
+            #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
