@@ -7,14 +7,12 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-
-BEARER = os.environ['BEARER']
-
 class TrailCounts:
     def __init__(self):
         self.counts = defaultdict(lambda:0)
         self.athletes = []
         # self.session = requests.Session()
+
     def add_athlete(self, athleteid):
         req = requests.get(f"https://fortcollins.oboztrailexperience.com/AthleteProgress?AthleteID={athleteid}")
         if "Athlete Progress" in req.text:
@@ -72,11 +70,18 @@ def fetch_trail_info_table():
     df.drop(['Unnamed: 1', 'Unnamed: 7'], axis=1, inplace=True, errors='ignore')
     return df
 
+def update_token():
+    pos = requests.post("https://api.terrainscouts.com/Authorize/Token")
+    token = f"Bearer {pos.json()['access_token']}"
+    return token
+
+
 def get_athletes():
+    token = update_token()
     req = requests.get("https://fortcollins.oboztrailexperience.com/Event/98/AthleteRanking/All",
         headers={
             'Accept': '*/*',
-            'Authorization': BEARER,
+            'Authorization': token,
             'Sec-Fetch-Site': "cross-site",
             'Accept-Language': "en-US,en;q=0.9",
             'Accept-Encoding': "gzip, deflate, br",
@@ -98,8 +103,8 @@ def get_trailcounts(athletes):
     trailcounts = TrailCounts()
     for athlete in athletes:
         trailcounts.add_athlete(athlete['athleteID'])
-        # if len(trailcounts.athletes) > 20:
-        #     break
+        if len(trailcounts.athletes) > 20:
+            break
     
     tcdf = trailcounts.to_dataframe()
     tcdf.columns = ['count']
@@ -122,6 +127,7 @@ def main():
                                                                         ascending=False).to_markdown(index=False, ).replace("nan", "   ")
     with open("table.md", "wt") as f:
         f.write(table)
+
 
 if __name__ == "__main__":
     main()

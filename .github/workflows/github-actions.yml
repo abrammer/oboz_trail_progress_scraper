@@ -1,4 +1,4 @@
-name: realtime_scape
+name: realtime_scrape
 on:
   workflow_dispatch:
   schedule:
@@ -13,8 +13,6 @@ jobs:
             - name: install dependencies
               run: pip install tabulate pandas requests lxml beautifulsoup4
             - name: run scaper
-              env:
-                BEARER: ${{ secrets.BEARER }}
               run: python main.py
             - name: echo
               run: cat table.md
