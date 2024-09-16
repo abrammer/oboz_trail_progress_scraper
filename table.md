@@ -2,7 +2,7 @@
 |:-------------------------------|--------:|--------:|----:|:------------------------------------------------------------------------------------------------------------------------|
 | Coyote Ridge                   |     100 |     100 | 100 | beer up to $10 from Tap and Handle AND a pair of socks from Feetures                                                    |
 | Maxwell Natural Area to the A  |     145 |     150 |  96 | pair of Smartwool socks -AND- a drink of choice with purchase of food item from Happy Trails                            |
-| Mason, Redtail Grove, and Foss |      88 |     100 |  88 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
+| Mason, Redtail Grove, and Foss |      89 |     100 |  89 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
 | Dixon Reservoir wide loop via  |     132 |     150 |  88 | cinnamon roll from Silver Grill                                                                                         |
 | Red Mountain Natural Area      |      40 |      50 |  80 | $10 gift card to Hot Corners                                                                                            |
 | Poudre Valley River Trail: Lee |      71 |     100 |  71 | bar from Bobo's Oat Bars                                                                                                |
