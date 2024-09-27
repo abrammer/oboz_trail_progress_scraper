@@ -1,17 +1,17 @@
 | Trail Name                     |   count |   limit |   % | reward                                                                                                                  |
 |:-------------------------------|--------:|--------:|----:|:------------------------------------------------------------------------------------------------------------------------|
 | Coyote Ridge                   |     142 |     100 | 142 | beer up to $10 from Tap and Handle AND a pair of socks from Feetures                                                    |
-| Mason, Redtail Grove, and Foss |     130 |     100 | 130 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
+| Mason, Redtail Grove, and Foss |     131 |     100 | 131 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
 | Maxwell Natural Area to the A  |     179 |     150 | 119 | pair of Smartwool socks -AND- a drink of choice with purchase of food item from Happy Trails                            |
 | Dixon Reservoir wide loop via  |     174 |     150 | 115 | cinnamon roll from Silver Grill                                                                                         |
 | Red Mountain Natural Area      |      55 |      50 | 110 | $10 gift card to Hot Corners                                                                                            |
 | Poudre Valley River Trail: Lee |     104 |     100 | 104 | bar from Bobo's Oat Bars                                                                                                |
 | Spring Creek/Spring Canyon Par |     153 |     150 | 102 | pancake from Snooze A.M. Eatery -AND- a buy one beer, get one from Snack Attack!                                        |
-| Running Deer Loop              |     133 |     150 |  88 | cinnamon roll from Vern's Place                                                                                         |
+| Running Deer Loop              |     134 |     150 |  89 | cinnamon roll from Vern's Place                                                                                         |
 | Three Bar Trail                |      81 |     100 |  81 | 3 complimentary tasters from Horse and Dragon                                                                           |
 | Arthurs Rock Trail             |      81 |     100 |  81 | $5 gift card to Mugs                                                                                                    |
-| Horsetooth Rock Loop Trail     |      68 |     100 |  68 | car wash from Breeze Thru Car Wash                                                                                      |
-| Hike Anywhere - Minimum 1 Mile |     287 |       0 |     | be entered into a drawing for a $25 gift card from Buttermilk Bakery                                                    |
+| Horsetooth Rock Loop Trail     |      70 |     100 |  70 | car wash from Breeze Thru Car Wash                                                                                      |
+| Hike Anywhere - Minimum 1 Mile |     288 |       0 |     | be entered into a drawing for a $25 gift card from Buttermilk Bakery                                                    |
 | Hike Anywhere - Minimum 2 Mile |     292 |       0 |     | be entered into a drawing for a $25 gift card from Cuppy's Coffee                                                       |
 | Soapstone Mahogany Trail       |      47 |       0 |     | buy one beer, get one from Gilded Goat Brewery                                                                          |
 | River Bluffs Open Space        |     117 |       0 |     | $5 off at Yampa Sandwich Co.                                                                                            |
