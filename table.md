@@ -1,7 +1,7 @@
 | Trail Name                     |   count |   limit |   % | reward                                                                                                                  |
 |:-------------------------------|--------:|--------:|----:|:------------------------------------------------------------------------------------------------------------------------|
 | Coyote Ridge                   |     151 |     100 | 151 | beer up to $10 from Tap and Handle AND a pair of socks from Feetures                                                    |
-| Mason, Redtail Grove, and Foss |     135 |     100 | 135 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
+| Mason, Redtail Grove, and Foss |     136 |     100 | 136 | $5 off any sandwich, salad, or burrito from Fort Collins Coffee House                                                   |
 | Red Mountain Natural Area      |      62 |      50 | 124 | $10 gift card to Hot Corners                                                                                            |
 | Maxwell Natural Area to the A  |     185 |     150 | 123 | pair of Smartwool socks -AND- a drink of choice with purchase of food item from Happy Trails                            |
 | Dixon Reservoir wide loop via  |     179 |     150 | 119 | cinnamon roll from Silver Grill                                                                                         |
@@ -18,7 +18,7 @@
 | Riverbend Ponds Trail          |     180 |       0 |     | baked good from Buttermilk Bakery                                                                                       |
 | Spring Creek Edora Park to Cre |     171 |       0 |     | buy one beer, get one from Intersect Brewery                                                                            |
 | Fossil Creek Trail through Cat |     123 |       0 |     | baked good from Cups Community Coffee AND a Bear Tree Collective designed compass patch and stickers!                   |
-| Reservoir Ridge via Foothills  |     113 |       0 |     | beer from the Mayor of Old Town                                                                                         |
+| Reservoir Ridge via Foothills  |     114 |       0 |     | beer from the Mayor of Old Town                                                                                         |
 | Devils Backbone Nature Trail   |      96 |       0 |     | beer with the purchase of a pizza or sandwich from Berthoud Brewing                                                     |
 | North Fork Big Thompson River  |      73 |       0 |     | buy one beer, get one from Mash Lab                                                                                     |
 | Pinewood Lake Loop at Ramsey S |      79 |       0 |     | buy one beer, get one from Timnath Beerwerks Fort Collins                                                               |
