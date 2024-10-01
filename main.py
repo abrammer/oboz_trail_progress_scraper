@@ -123,7 +123,7 @@ def main():
     tcdf['reward'] = tcdf['reward'].str.replace("free", '',)
     tcdf['reward'] = tcdf['reward'].str.replace("earn", '',)
     tcdf['reward'] = tcdf['reward'].str.replace("  ", ' ',)
-    table = tcdf[['Trail Name', 'count', 'limit', '%', 'reward']].sort_values(['%'],
+    table = tcdf[['Trail Name', 'count', 'limit', '%', 'reward']].sort_values(['count'],
                                                                         ascending=False).to_markdown(index=False, ).replace("nan", "   ")
     with open("table.md", "wt") as f:
         f.write(table)
