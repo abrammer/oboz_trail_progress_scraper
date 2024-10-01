@@ -1,8 +1,8 @@
 name: realtime_scrape
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0/12 * * *"
+  # schedule:
+    # - cron: "0 0/12 * * *"
 
 jobs:
     scrape:
